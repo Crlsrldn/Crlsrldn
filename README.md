@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crlsrldn
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning 
+- 👀 I’m a Front End Engineer
+- 🌱 I’m currently learning backend
 <!--- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 --->
