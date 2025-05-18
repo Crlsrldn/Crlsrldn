@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Crlsrldn
-- 👀 I’m a Front End Engineer
-- 🌱 I’m currently learning backend
+- 👋 Hi, I’m Carlos
+- 👀 I’m an Engineer
 <!--- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 --->
